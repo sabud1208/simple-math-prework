@@ -27,4 +27,4 @@ def order_of_operation(num1, num2, num3, num4)
 end
 
 
-addition(5,4)
+puts addition(5,4)
